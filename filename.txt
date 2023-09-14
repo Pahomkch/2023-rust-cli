@@ -1,0 +1,5 @@
+a
+STUB - SECTION 2
+STUB
+b
+c
